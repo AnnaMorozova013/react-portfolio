@@ -2,7 +2,7 @@ export const projects = [
   {
     id: "projects",
     github: true,
-    githubLink: "https://github.com/AnnaMorozova013/react-portfolio-website",
+    githubLink: "https://github.com/AnnaMorozova013/react-portfolio",
     deploy: false,
     deployLink: "",
     lightBg: true,
