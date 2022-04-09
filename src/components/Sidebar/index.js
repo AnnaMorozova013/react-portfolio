@@ -18,7 +18,7 @@ const Sidebar = ({ isOpen, toggle }) => {
                 <SidebarLink to="about" onClick={toggle}>
                     About Me
                 </SidebarLink>
-                <SidebarLinkExt href="https://mega.nz/file/HpVDyCRT#Iyg7WUiyPdjjI5BUgRWVKdr1Z1yms9oJpLIqxVW4ABk"
+                <SidebarLinkExt href="https://drive.google.com/file/d/10ZnsILqjE2oHoNv0FXdOTmx7TuFqqvcj/view?usp=sharing"
                   target="_blank">
                     CV
                 </SidebarLinkExt>
