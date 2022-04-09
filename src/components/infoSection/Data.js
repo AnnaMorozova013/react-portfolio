@@ -185,7 +185,7 @@ export const education = [
     topLine: "Education",
     headline: "Higher Education",
     description: 
-`- Bachelor in Tourism Econimics 🌎
+`Bachelor in Tourism Economics 🌎
 
 Major in Health Tourism, Destination Management and Hospitality
 `,
