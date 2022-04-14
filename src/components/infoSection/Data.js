@@ -1,4 +1,28 @@
 export const projects = [
+
+  {
+    id: "projects",
+    github: false,
+    githubLink: "",
+    deploy: true,
+    deployLink: "https://www.socialbnb.org/",
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: "Projects",
+    headline: "socialbnb",
+    description:
+      `socialbnb is an innovative online platform that connects travelers with social and ecological projects. As part of my internship in front-end development, I am working on the new version of the socialbnb website - creating reusable React components.
+
+React | Javascript Sharetribe | Node.js | Git`,
+    imgStart: false,
+    img: require("../../images/socialbnb3.png"),
+    alt: "Ironhack logo",
+    dark: false,
+    primary: false,
+    darkText: true,
+  },
+
   {
     id: "projects",
     github: true,
