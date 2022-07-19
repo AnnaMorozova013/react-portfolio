@@ -84,7 +84,7 @@ const Navbar = ({ toggle }) => {
               </NavItem>
               <NavItem>
                 <NavExtLink
-                  href="https://drive.google.com/file/d/10ZnsILqjE2oHoNv0FXdOTmx7TuFqqvcj/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1o1BT_GScxGedb6J-HyWaaD8HCyALJ0g2/view?usp=sharing"
                   target="_blank"
                 >
                   CV

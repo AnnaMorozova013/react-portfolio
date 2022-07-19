@@ -248,7 +248,7 @@ export const contact = {
   lightTextDesc: false,
   topLine: "E-mail",
   headline: "a.morozova.nrw@gmail.com",
-  description: `Open to job opportunities and coding challenges. 
+  description: `Open to job opportunities and projects. 
 `,
   buttonLabel: "Learn more",
   imgStart: false,

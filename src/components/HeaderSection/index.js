@@ -28,7 +28,7 @@ const HeaderSection = () => {
       <HeaderContent>
         <HeaderH1>Hi! I'm Anna.</HeaderH1>
         <HeaderP>
-          Motivated junior front-end developer devoted to crafting web experiences focused on simplicity and functionality.
+          With background in travel and event business, project management and newly-found passion for frontend development, I am looking forward to bring my career to the next level.
         </HeaderP>
         <HeaderBtnWrapper>
           <Button
