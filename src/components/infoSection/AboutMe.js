@@ -60,7 +60,7 @@ const AboutMe = ({
                   <Heading2 lightText={lightText}>Work objectives</Heading2>
                   <Subtitle darkText={darkText}>I would be very motivated to work in a company that:<br/><br/>
 
-<li>secures a <b>good onboarding</b> and has experience with junior developers</li><br/>
+<li>secures a <b>good onboarding</b> and has experience with juniors and career changers </li><br/>
 <li>provides <b>space for growth</b> and support of individual talent</li><br/>
 <li>has <b>meaningful</b> projects</li><br/>
 <li>has a healthy <b>company culture</b> and flexible working hours with possibility for remote work</li><br/>
